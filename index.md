@@ -1,7 +1,3 @@
-### Hi 👋, I'm Bryan Velastegui
-
-#### A passionate fullstack developer from Ecuador
-
 - 🔭 I’m currently working on [Intisana](www.intisana.com) as fullstack developer.
 - 🌱 I’m currently learning **Kotlin.**
 - 💬 Ask me about **php, mysql, javascript, html5 and css.**
